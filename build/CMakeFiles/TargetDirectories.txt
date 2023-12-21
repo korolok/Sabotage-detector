@@ -1,0 +1,3 @@
+/home/korolok/work/test/sabotage_detect/build/CMakeFiles/SabotageDetect.dir
+/home/korolok/work/test/sabotage_detect/build/CMakeFiles/edit_cache.dir
+/home/korolok/work/test/sabotage_detect/build/CMakeFiles/rebuild_cache.dir

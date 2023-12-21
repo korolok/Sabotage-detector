@@ -1,0 +1,7 @@
+{
+    "gridX": "3",
+    "gridY": "3",
+    "cam_url": "rtsp://admin:Admin1234@10.24.72.84:554/ch01.264?dev=1",
+    "grid": "0:0,2:2",
+    "kernel": "20"
+}
